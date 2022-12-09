@@ -1,0 +1,150 @@
+src LB2 PF LB1 ENC DEC FW dst
+src PF DEC dst
+src LB1 PF ENC DPI FW LB2 DEC dst
+src LB2 ENC dst
+src DEC ENC FW DPI PF LB2 dst
+src LB1 LB2 DEC PF ENC dst
+src ENC LB2 dst
+src FW LB2 DEC LB1 ENC DPI dst
+src DPI LB2 LB1 DEC PF dst
+src DPI PF ENC LB1 FW LB2 dst
+src DPI PF ENC FW dst
+src DEC FW PF LB1 dst
+src ENC PF FW DPI LB2 LB1 dst
+src FW DEC LB1 DPI dst
+src ENC LB1 DPI dst
+src FW DPI DEC ENC dst
+src FW LB1 DPI LB2 DEC dst
+src DPI PF ENC dst
+src LB1 FW DEC dst
+src DEC LB1 DPI dst
+src ENC LB1 FW DEC LB2 DPI dst
+src ENC LB2 FW PF dst
+src LB2 FW ENC dst
+src ENC LB1 DEC dst
+src PF FW DEC dst
+src ENC LB1 LB2 FW DPI dst
+src FW LB2 PF LB1 DPI ENC dst
+src LB2 FW DEC ENC DPI LB1 PF dst
+src DPI ENC FW DEC PF LB1 dst
+src PF LB2 dst
+src PF DEC LB2 ENC FW LB1 dst
+src LB2 PF DEC DPI FW dst
+src DEC LB2 FW PF dst
+src ENC DPI FW DEC LB1 dst
+src FW PF DPI dst
+src LB2 PF dst
+src ENC DEC PF LB1 dst
+src ENC FW PF DEC DPI LB1 LB2 dst
+src DPI LB2 DEC PF ENC FW LB1 dst
+src LB1 DPI FW DEC dst
+src LB1 DEC dst
+src DEC DPI FW LB1 LB2 dst
+src DPI LB2 FW dst
+src FW DEC LB2 LB1 dst
+src FW PF LB2 ENC dst
+src LB1 FW ENC LB2 DPI dst
+src LB1 FW ENC DEC LB2 dst
+src LB1 DEC LB2 FW DPI ENC PF dst
+src DEC LB1 DPI PF LB2 FW ENC dst
+src LB1 ENC LB2 dst
+src ENC DEC LB2 dst
+src DPI ENC FW dst
+src DEC ENC LB1 LB2 dst
+src FW DPI ENC DEC dst
+src DEC FW LB1 dst
+src LB1 ENC dst
+src DEC FW ENC LB2 dst
+src PF FW DEC DPI dst
+src PF DEC DPI LB1 FW LB2 dst
+src DEC LB1 dst
+src LB1 ENC FW DPI PF dst
+src DEC LB1 FW dst
+src PF ENC DEC DPI LB2 FW LB1 dst
+src LB2 PF ENC dst
+src LB1 DPI ENC FW dst
+src FW PF DEC DPI LB2 dst
+src ENC LB2 DPI PF DEC LB1 dst
+src DEC ENC DPI FW LB1 PF dst
+src DPI PF DEC ENC dst
+src LB1 LB2 FW dst
+src ENC FW LB2 DEC dst
+src DEC PF FW ENC LB1 LB2 DPI dst
+src LB1 ENC dst
+src LB1 ENC PF LB2 FW dst
+src DEC LB1 LB2 ENC dst
+src LB2 PF LB1 DPI DEC FW dst
+src LB2 PF DEC dst
+src DEC FW DPI LB1 dst
+src ENC PF LB1 DEC DPI dst
+src FW PF DEC LB2 LB1 dst
+src DPI PF LB1 FW DEC LB2 ENC dst
+src LB2 DPI FW LB1 ENC DEC dst
+src FW DPI PF DEC LB1 LB2 dst
+src PF DEC ENC LB2 dst
+src FW DEC PF dst
+src PF LB1 FW ENC LB2 dst
+src FW ENC LB2 DPI PF LB1 DEC dst
+src LB2 LB1 DPI dst
+src DEC LB1 FW LB2 dst
+src LB1 PF DPI LB2 dst
+src LB1 DPI PF LB2 FW dst
+src LB2 DPI DEC ENC dst
+src LB1 ENC PF dst
+src FW ENC LB2 LB1 PF DPI dst
+src FW PF DEC LB1 LB2 DPI dst
+src LB2 LB1 ENC DPI FW PF dst
+src PF LB1 dst
+src LB1 DEC dst
+src DPI DEC dst
+src LB2 FW PF DEC ENC dst
+src LB2 LB1 dst
+src DEC FW PF ENC dst
+src LB1 LB2 PF FW DPI DEC dst
+src FW PF DPI LB2 ENC dst
+src ENC LB2 LB1 DPI DEC PF dst
+src LB1 ENC PF DPI dst
+src LB2 FW PF LB1 DPI dst
+src PF FW DPI LB1 ENC dst
+src LB1 PF FW LB2 ENC DEC dst
+src ENC FW PF LB1 DEC DPI dst
+src FW DEC ENC DPI dst
+src FW DPI LB1 ENC dst
+src ENC LB1 DEC FW PF LB2 DPI dst
+src LB1 DPI dst
+src DPI PF LB1 ENC DEC dst
+src PF LB1 LB2 DEC ENC DPI FW dst
+src DPI ENC LB1 DEC PF FW LB2 dst
+src LB2 DPI PF dst
+src LB1 LB2 DEC PF FW ENC DPI dst
+src LB1 FW dst
+src LB1 PF LB2 ENC DPI dst
+src DEC ENC PF LB2 FW dst
+src FW DEC DPI LB2 LB1 PF dst
+src ENC LB1 PF FW dst
+src ENC LB1 DPI DEC FW dst
+src PF DEC DPI LB1 dst
+src DPI LB1 ENC dst
+src FW DEC DPI ENC PF dst
+src FW LB2 dst
+src FW LB1 dst
+src DEC LB1 dst
+src FW LB2 DEC dst
+src DEC ENC DPI dst
+src LB2 LB1 DPI ENC FW DEC dst
+src LB2 DEC ENC FW PF DPI LB1 dst
+src FW PF dst
+src DEC DPI dst
+src FW PF LB2 ENC dst
+src LB1 DEC FW DPI LB2 ENC PF dst
+src LB2 PF DPI DEC LB1 dst
+src ENC LB2 DEC LB1 DPI PF FW dst
+src FW LB2 DEC ENC dst
+src DPI FW dst
+src LB1 FW DEC ENC dst
+src ENC LB2 LB1 dst
+src ENC FW LB1 dst
+src DEC ENC LB2 PF DPI LB1 FW dst
+src ENC DPI PF LB2 LB1 dst
+src DEC FW ENC LB2 LB1 DPI PF dst
+src PF FW DPI ENC LB1 DEC dst
